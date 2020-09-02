@@ -1,4 +1,4 @@
-#Content-Based Recommendation Systems 
+# Content-Based Recommendation Systems 
 
 Los autores realizan una revisión de los sistemas de recomendación basados en el contenido, explicando que esté método se basa en la descripción de los ítems que han realizados los usuarios de manera estructurada o no estructurada. Por otro lado, se explica la factibilidad de recomendar, según las preferencias del usuario, a partir de ese contenido, lo que permite al proveedor crear un perfil del usuario qué describa cuales son el tipo de ítems que le gustan, lo que permite a su vez, comparar la descripción de los ítems con sus preferencias.
 
